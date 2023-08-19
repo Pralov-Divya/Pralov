@@ -4,6 +4,6 @@ body {
 }
 
 #board {
-     /*  background-color: skyblue; */
-  background-image: url("pm.jpeg"); 
+      background-color: skyblue; 
+  background-image: url("/storage/emulated/0/Download/pm.jpeg");
 }
